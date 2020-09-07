@@ -1,0 +1,6 @@
+create table Students(USN integer primary key,Name varchar(20),Phone_Number long,Branch varchar(5));
+insert into Students values(100,'S',7658785577,'CSE'); 
+insert into Students values(101,'So',7658785577,'ECE'); 
+insert into Students values(102,'Som',7658785577,'CSE'); 
+ insert into Students values(103,'Some',7658785577,'CSE'); 
+insert into Students values(104,'Somey',7658785577,'ECE');        
